@@ -1,0 +1,5 @@
+180130220838, 22222,  "W Is For Wasted - Sue Grafton", 9.95, 1, 0.0, 9.95, 2018/01/30 22:08:38 PM EST
+180130220838, 99999,  "Rogue Lawyer - John Grisham", 15.95, 2, 0.0, 31.9, 2018/01/30 22:08:38 PM EST
+180130220838, 11234,  "Tricky Twenty-Two - Janet Evanovich", 12.95, 1, 0.0, 12.95, 2018/01/30 22:08:38 PM EST
+180130221102, 55555,  "Everyday Italian - Giada de Laurentiis", 18.99, 1, 0.0, 18.99, 2018/01/30 22:11:02 PM EST
+180130221102, 11112,  "The Guilty - David Baldacci", 14.95, 1, 0.0, 14.95, 2018/01/30 22:11:02 PM EST

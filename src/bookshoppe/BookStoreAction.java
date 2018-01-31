@@ -22,8 +22,8 @@ public class BookStoreAction{
 	private boolean read = false;
 	
 	private final float TAX = 0.06f; 
-	private final String FILE_IN = "inventory.txt";
-	private final String FILE_OUT = "transaction.txt";
+	private final String FILE_IN = "\\BookStore\\src\\inventory.txt";
+	private final String FILE_OUT = "\\BookStore\\src\\transaction.txt";
 	private final String DISPLAY_TAX = "6%";
 	
 	//Initialize the Invoice and read inventory

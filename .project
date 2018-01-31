@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>inventory.txt</name>
-			<type>1</type>
-			<location>C:/Users/kajem/Google Drive/University of Central Florida/Spring 2018/Enterprise Computing/Project 1/inventory.txt</location>
-		</link>
-	</linkedResources>
 </projectDescription>
